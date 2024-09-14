@@ -30,13 +30,13 @@ if (isset($_POST['submit'])) {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
-                        <a class="nav-link" href="/index.html">Home</a>
+                        <a class="nav-link" href="index.html">Home</a>
                         <a class="nav-link active" href="#">Tamu</a>
-                        <a class="nav-link" href="/buku_tamu.html">Buku Tamu</a>
+                        <a class="nav-link" href="buku_tamu.html">Buku Tamu</a>
                     </div>
                 </div>
                 <span class="d-flex">
-                    <a class="btn btn-danger" href="/login.html">Logout</a>
+                    <a class="btn btn-danger" href="login.html">Logout</a>
                 </span>
             </div>
         </nav>
